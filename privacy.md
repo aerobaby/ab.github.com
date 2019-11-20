@@ -27,7 +27,7 @@ AeroBaby does not track you; that is, AeroBaby does not collect personally ident
 ## Links 
 We may include links to third parties from our website or services. AeroBaby isn’t responsible for these companies and including a link to them doesn’t mean that AeroBaby endorses them. So be sure to check their privacy policies if you decide to visit them. And remember, your use of AeroBaby’s sites and services may also be subject to the terms and conditions and privacy policies of other services that AeroBaby doesn’t control such as mobile application stores, mobile software platforms, online social media sites, or payment processors.
 
-## Security*
+## Security
 AeroBaby uses generally accepted security measures and safeguards in an attempt to keep the data it collects secure and requires that the third parties it works with agree to do the same. The measures and safeguards include limiting access to the data to those persons who need it to complete their work for AeroBaby, using a fire-wall protected environment, and storing personal information in secure operating environments. That said, AeroBaby cannot and does not guarantee and does not accept liability for unintentional disclosure.
 
 ## How to update or remove your information
