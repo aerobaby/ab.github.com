@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 *2019-11-19*
 
 Hello! Welcome to the AeroBaby Privacy Policy. It was last updated November 19, 2019.
